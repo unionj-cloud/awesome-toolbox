@@ -11,6 +11,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [whvcse/EasyCaptcha](https://github.com/whvcse/EasyCaptcha)(Java): Powerful and simple usage image captcha
 * [Jeffail/gabs](https://github.com/Jeffail/gabs)(Go): Gabs is a small utility for dealing with dynamic or unknown JSON structures in Go
 
+## Microservice
+* [HikoQiu/go-eureka-client](https://github.com/HikoQiu/go-eureka-client)(Go): Non-offical implementation of Spring Cloud Eureka client for go
+
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): detect BOM, remove BOM and detect file encoding from BOM
 * [nicolargo/glances](https://github.com/nicolargo/glances)(Python): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
