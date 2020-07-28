@@ -14,6 +14,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 
 ## Microservice
 * [HikoQiu/go-eureka-client](https://github.com/HikoQiu/go-eureka-client)(Go): Non-offical implementation of Spring Cloud Eureka client for go
+* [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)(Java): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain
 
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): detect BOM, remove BOM and detect file encoding from BOM
