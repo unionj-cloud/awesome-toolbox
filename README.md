@@ -19,6 +19,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 
 ## Test
 * [onsi/ginkgo](https://github.com/onsi/ginkgo)(Go): BDD Testing Framework for Go
+* [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)(Go): Sql mock driver for golang to test database interactions
 
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): detect BOM, remove BOM and detect file encoding from BOM
