@@ -1,6 +1,9 @@
 # awesome-toolbox
 This is a collection of useful libraries collected in our daily developing. PR welcome!
 
+## Algorithms
+* [yourbasic/graph](https://github.com/yourbasic/graph)(Go): Graph algorithms and data structures
+
 ## Authentication
 * [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)(Go): OAuth 2.0 specification implementation server
 
