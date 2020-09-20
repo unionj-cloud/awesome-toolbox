@@ -28,4 +28,5 @@ This is a collection of useful libraries collected in our daily developing. PR w
 
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): detect BOM, remove BOM and detect file encoding from BOM
+* [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate)(Go): SQL schema migration tool for Go
 * [nicolargo/glances](https://github.com/nicolargo/glances)(Python): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
