@@ -33,3 +33,4 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [deckarep/golang-set](https://github.com/deckarep/golang-set)(Go): A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.
 * [araddon/dateparse](https://github.com/araddon/dateparse)(Go): GoLang Parse many date strings without knowing format in advance.
 * [nicolargo/glances](https://github.com/nicolargo/glances)(Python): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+* [emperror/emperror](https://github.com/emperror/emperror): The Emperor takes care of all errors personally
