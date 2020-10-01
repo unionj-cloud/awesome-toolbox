@@ -21,6 +21,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [containous/traefik](https://github.com/containous/traefik)(Go): Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Traefik integrates with your existing infrastructure components (Docker, Swarm mode, Kubernetes, Marathon, Consul, Etcd, Rancher, Amazon ECS, ...) and configures itself automatically and dynamically. Pointing Traefik at your orchestrator should be the only configuration step you need
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates.
+* [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): Circuit Breakers in Go
 
 ## Test
 * [onsi/ginkgo](https://github.com/onsi/ginkgo)(Go): BDD Testing Framework for Go
