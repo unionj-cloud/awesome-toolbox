@@ -23,6 +23,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates.
 * [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): Circuit Breakers in Go
 
+## Database
+* [facebook/ent](https://github.com/facebook/ent): An entity framework for Go
+
 ## Test
 * [onsi/ginkgo](https://github.com/onsi/ginkgo)(Go): BDD Testing Framework for Go
 * [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)(Go): Sql mock driver for golang to test database interactions
