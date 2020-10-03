@@ -29,6 +29,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 ## Log
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go
 
+## Code Generator
+* [dave/jennifer](https://github.com/dave/jennifer): Jennifer is a code generator for Go
+
 ## Test
 * [onsi/ginkgo](https://github.com/onsi/ginkgo)(Go): BDD Testing Framework for Go
 * [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)(Go): Sql mock driver for golang to test database interactions
