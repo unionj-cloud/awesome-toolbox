@@ -8,6 +8,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [tinymce/tinymce](https://github.com/tinymce/tinymce): The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 * [pixabay](https://pixabay.com/): Stunning free images & royalty free stock
 * [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js): Image tracking, Location Based AR, Marker tracking. All on the Web
+* [Pannellum](https://pannellum.org/): Pannellum is a lightweight, free, and open source panorama viewer for the web. Built using HTML5, CSS3, JavaScript, and WebGL, it is plug-in free
 
 ## Authentication
 * [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)(Go): OAuth 2.0 specification implementation server
@@ -60,6 +61,13 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [JournalDev](https://www.journaldev.com/)(Java): JournalDev is one of the most popular websites for Java, Python, Android, and related technical articles
 * [Mkyong.com](https://mkyong.com/)(Java): By Mkyong
 * [GoLangDocs](https://golangdocs.com/)(Go): By Pankaj
+* [Go, the unwritten parts](https://rakyll.org/): Articles mostly about Go. Conventions, best practices, little known practical tips
 * [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm): Resource for Online Education
 * [木易杨前端进阶](https://muyiy.cn/blog/): 高级前端进阶博文
 * [前端进阶之道](https://yuchengkai.cn/): 不容错过的前端进阶资料
+* [Golang Internals](https://www.altoros.com/blog/golang-internals-part-1-main-concepts-and-project-structure/)(Go): This blog post explains the structure of a Go-based project, dives into the Go compiler, and overviews a Go node
+* [Essential Programming Books](https://www.programming-books.io/): Programming books. For the people, by the people
+* [Regular-expressions.info](https://www.regular-expressions.info/tutorial.html): This tutorial teaches you all you need to know to be able to craft powerful time-saving regular expressions
+
+## Specification
+* [RFC6749](https://tools.ietf.org/html/rfc6749): The OAuth 2.0 Authorization Framework
