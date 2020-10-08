@@ -49,6 +49,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [araddon/dateparse](https://github.com/araddon/dateparse)(Go): GoLang Parse many date strings without knowing format in advance.
 * [nicolargo/glances](https://github.com/nicolargo/glances)(Python): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * [emperror/emperror](https://github.com/emperror/emperror): The Emperor takes care of all errors personally
+* [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler): Program to reverse Docker images into Dockerfiles
 
 ## Blog/Tutorial
 * [Martin Fowler](https://martinfowler.com/): An author, speaker… essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications
@@ -68,6 +69,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [Golang Internals](https://www.altoros.com/blog/golang-internals-part-1-main-concepts-and-project-structure/)(Go): This blog post explains the structure of a Go-based project, dives into the Go compiler, and overviews a Go node
 * [Essential Programming Books](https://www.programming-books.io/): Programming books. For the people, by the people
 * [Regular-expressions.info](https://www.regular-expressions.info/tutorial.html): This tutorial teaches you all you need to know to be able to craft powerful time-saving regular expressions
+* [Mysqltutorial](https://www.mysqltutorial.org/): This website provides you with a complete MySQL tutorial presented in an easy-to-follow manner. Each tutorial has practical examples with SQL script and screenshots available
 
 ## Specification
 * [RFC6749](https://tools.ietf.org/html/rfc6749): The OAuth 2.0 Authorization Framework
