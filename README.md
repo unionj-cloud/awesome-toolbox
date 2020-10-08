@@ -6,6 +6,8 @@ This is a collection of useful libraries collected in our daily developing. PR w
 
 ## Frontend
 * [tinymce/tinymce](https://github.com/tinymce/tinymce): The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+* [pixabay](https://pixabay.com/): Stunning free images & royalty free stock
+* [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js): Image tracking, Location Based AR, Marker tracking. All on the Web
 
 ## Authentication
 * [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)(Go): OAuth 2.0 specification implementation server
@@ -40,9 +42,24 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)(Go): Sql mock driver for golang to test database interactions
 
 ## Miscellaneous
-* [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): detect BOM, remove BOM and detect file encoding from BOM
+* [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): Detect BOM, remove BOM and detect file encoding from BOM
 * [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate)(Go): SQL schema migration tool for Go
 * [deckarep/golang-set](https://github.com/deckarep/golang-set)(Go): A simple set type for the Go language. Also used by Docker, 1Password, Ethereum.
 * [araddon/dateparse](https://github.com/araddon/dateparse)(Go): GoLang Parse many date strings without knowing format in advance.
 * [nicolargo/glances](https://github.com/nicolargo/glances)(Python): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * [emperror/emperror](https://github.com/emperror/emperror): The Emperor takes care of all errors personally
+
+## Blog/Tutorial
+* [Martin Fowler](https://martinfowler.com/): An author, speaker… essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications
+* [Dave Cheney](https://dave.cheney.net/)(Go): David is an open source contributor and project member for the Go programming language
+* [Algorithms to Go](https://yourbasic.org/)(Go): By Stefan Nilsson
+* [Programming.Guide](https://programming.guide/): By Andreas Lundblad and Stefan Nilsson
+* [doocs/advanced-java](https://github.com/doocs/advanced-java)(Java): 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+* [jenkov.com](http://tutorials.jenkov.com/)(Java): Tutorials for Software Developers and Technopreneurs
+* [Baeldung](https://www.baeldung.com/)(Java): Tutorials about Java spring stack by Eugen
+* [JournalDev](https://www.journaldev.com/)(Java): JournalDev is one of the most popular websites for Java, Python, Android, and related technical articles
+* [Mkyong.com](https://mkyong.com/)(Java): By Mkyong
+* [GoLangDocs](https://golangdocs.com/)(Go): By Pankaj
+* [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm): Resource for Online Education
+* [木易杨前端进阶](https://muyiy.cn/blog/): 高级前端进阶博文
+* [前端进阶之道](https://yuchengkai.cn/): 不容错过的前端进阶资料
