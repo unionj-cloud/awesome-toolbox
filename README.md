@@ -4,6 +4,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 ## Algorithms
 * [yourbasic/graph](https://github.com/yourbasic/graph)(Go): Graph algorithms and data structures
 
+## Frontend
+* [tinymce/tinymce](https://github.com/tinymce/tinymce): The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+
 ## Authentication
 * [RichardKnop/go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)(Go): OAuth 2.0 specification implementation server
 
