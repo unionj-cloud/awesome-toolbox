@@ -23,7 +23,6 @@ This is a collection of useful libraries collected in our daily developing. PR w
 
 ## Microservice
 * [HikoQiu/go-eureka-client](https://github.com/HikoQiu/go-eureka-client)(Go): Non-offical implementation of Spring Cloud Eureka client for go
-* [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)(Java): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain
 * [containous/traefik](https://github.com/containous/traefik)(Go): Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Traefik integrates with your existing infrastructure components (Docker, Swarm mode, Kubernetes, Marathon, Consul, Etcd, Rancher, Amazon ECS, ...) and configures itself automatically and dynamically. Pointing Traefik at your orchestrator should be the only configuration step you need
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates.
@@ -41,6 +40,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 ## Test
 * [onsi/ginkgo](https://github.com/onsi/ginkgo)(Go): BDD Testing Framework for Go
 * [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)(Go): Sql mock driver for golang to test database interactions
+* [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)(Java): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain
 
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): Detect BOM, remove BOM and detect file encoding from BOM
