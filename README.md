@@ -27,6 +27,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [kubernetes/kompose](https://github.com/kubernetes/kompose): Go from Docker Compose to Kubernetes
 * [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates.
 * [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): Circuit Breakers in Go
+* [ctripcorp/apollo](https://github.com/ctripcorp/apollo): Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景
+* [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go)(Go): OpenTracing API for Go
+* [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java)(Java): OpenTracing API for Java
 
 ## Database
 * [facebook/ent](https://github.com/facebook/ent): An entity framework for Go
@@ -50,6 +53,8 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [nicolargo/glances](https://github.com/nicolargo/glances)(Python): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * [emperror/emperror](https://github.com/emperror/emperror): The Emperor takes care of all errors personally
 * [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler): Program to reverse Docker images into Dockerfiles
+* [aspose-words/Aspose.Words-for-Java](https://github.com/aspose-words/Aspose.Words-for-Java)(Java): Aspose.Words for Java examples, plugins and showcases
+
 
 ## Blog/Tutorial
 * [Martin Fowler](https://martinfowler.com/): An author, speaker… essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications
@@ -61,6 +66,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [Baeldung](https://www.baeldung.com/)(Java): Tutorials about Java spring stack by Eugen
 * [JournalDev](https://www.journaldev.com/)(Java): JournalDev is one of the most popular websites for Java, Python, Android, and related technical articles
 * [Mkyong.com](https://mkyong.com/)(Java): By Mkyong
+* [DOAN DuyHai's blog](http://www.doanduyhai.com/blog/)(Java): By Duy Hai DOAN 
 * [GoLangDocs](https://golangdocs.com/)(Go): By Pankaj
 * [Go, the unwritten parts](https://rakyll.org/): Articles mostly about Go. Conventions, best practices, little known practical tips
 * [tutorialspoint](https://www.tutorialspoint.com/tutorialslibrary.htm): Resource for Online Education
@@ -70,6 +76,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [Essential Programming Books](https://www.programming-books.io/): Programming books. For the people, by the people
 * [Regular-expressions.info](https://www.regular-expressions.info/tutorial.html): This tutorial teaches you all you need to know to be able to craft powerful time-saving regular expressions
 * [Mysqltutorial](https://www.mysqltutorial.org/): This website provides you with a complete MySQL tutorial presented in an easy-to-follow manner. Each tutorial has practical examples with SQL script and screenshots available
+* [GeeksforGeeks](https://www.geeksforgeeks.org/): Tutorials
 
 ## Specification
 * [RFC6749](https://tools.ietf.org/html/rfc6749): The OAuth 2.0 Authorization Framework
