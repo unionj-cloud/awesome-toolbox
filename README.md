@@ -55,6 +55,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [emperror/emperror](https://github.com/emperror/emperror): The Emperor takes care of all errors personally
 * [P3GLEG/Whaler](https://github.com/P3GLEG/Whaler): Program to reverse Docker images into Dockerfiles
 * [aspose-words/Aspose.Words-for-Java](https://github.com/aspose-words/Aspose.Words-for-Java)(Java): Aspose.Words for Java examples, plugins and showcases
+* [gookit/validate](https://github.com/gookit/validate)(Go): Go package for data validation and filtering. support Map, Struct, Form data.
 
 
 ## Blog/Tutorial
