@@ -33,7 +33,8 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java)(Java): OpenTracing API for Java
 
 ## Database
-* [facebook/ent](https://github.com/facebook/ent): An entity framework for Go
+* [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
+* [k1LoW/tbls](https://github.com/k1LoW/tbls)(Go): tbls is a CI-Friendly tool for document a database, written in Go.
 
 ## Log
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go
