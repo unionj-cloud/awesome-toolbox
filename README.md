@@ -32,10 +32,15 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [philchia/agollo](https://github.com/philchia/agollo)(Go) Go Client for Apollo
 * [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go)(Go): OpenTracing API for Go
 * [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java)(Java): OpenTracing API for Java
+* [goadesign/goa](https://github.com/goadesign/goa)(Go): Design-based APIs and microservices in Go
 
 ## Database
 * [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
 * [k1LoW/tbls](https://github.com/k1LoW/tbls)(Go): tbls is a CI-Friendly tool for document a database, written in Go.
+
+## OpenAPI / Swagger
+* [mermade/widdershins](https://github.com/mermade/widdershins)(Nodejs): OpenAPI / Swagger, AsyncAPI & Semoasa definitions to Slate / Shins compatible markdown
+* [Mermade/shins](https://github.com/mermade/shins)(Nodejs): UI for OpenAPI / Swagger
 
 ## Log
 * [sirupsen/logrus](https://github.com/sirupsen/logrus): Structured, pluggable logging for Go
