@@ -33,6 +33,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go)(Go): OpenTracing API for Go
 * [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java)(Java): OpenTracing API for Java
 * [goadesign/goa](https://github.com/goadesign/goa)(Go): Design-based APIs and microservices in Go
+* [kubernetes/client-go](https://github.com/kubernetes/client-go)(Go): Go client for Kubernetes
 
 ## Database
 * [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
