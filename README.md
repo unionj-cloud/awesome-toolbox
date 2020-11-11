@@ -92,3 +92,4 @@ This is a collection of useful libraries collected in our daily developing. PR w
 ## Specification
 * [RFC6749](https://tools.ietf.org/html/rfc6749): The OAuth 2.0 Authorization Framework
 * [kubernetes-api](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/): Kubernetes api v1.19
+* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.3.md): OpenAPI 3.0.3 Specification
