@@ -38,6 +38,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 ## Database
 * [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
 * [k1LoW/tbls](https://github.com/k1LoW/tbls)(Go): tbls is a CI-Friendly tool for document a database, written in Go.
+* [go-redis/redis](https://github.com/go-redis/redis)(Go): Type-safe Redis client for Golang
 
 ## OpenAPI / Swagger
 * [mermade/widdershins](https://github.com/mermade/widdershins)(Nodejs): OpenAPI / Swagger, AsyncAPI & Semoasa definitions to Slate / Shins compatible markdown
