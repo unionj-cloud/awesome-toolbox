@@ -21,6 +21,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [Jeffail/gabs](https://github.com/Jeffail/gabs)(Go): Gabs is a small utility for dealing with dynamic or unknown JSON structures in Go
 * [json-iterator/go](https://github.com/json-iterator/go)(Go): A high-performance 100% compatible drop-in replacement of "encoding/json"
 * [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger)(Go): gin middleware to automatically generate RESTful API documentation with Swagger 2.0
+* [radovskyb/watcher](https://github.com/radovskyb/watcher)(Go): watcher is a Go package for watching for files or directory changes without using filesystem events.
 
 ## Microservice
 * [HikoQiu/go-eureka-client](https://github.com/HikoQiu/go-eureka-client)(Go): Non-offical implementation of Spring Cloud Eureka client for go
