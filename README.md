@@ -57,6 +57,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)(Java): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain
 * [rakyll/hey](https://github.com/rakyll/hey): HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 
+## Crawler
+* [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper): Download website to local directory (including all css, images, js, etc.)
+
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): Detect BOM, remove BOM and detect file encoding from BOM
 * [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate)(Go): SQL schema migration tool for Go
