@@ -37,6 +37,9 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [goadesign/goa](https://github.com/goadesign/goa)(Go): Design-based APIs and microservices in Go
 * [kubernetes/client-go](https://github.com/kubernetes/client-go)(Go): Go client for Kubernetes
 * [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim):DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* [slok/goresilience](https://github.com/slok/goresilience): A library to improve the resilience of Go applications in an easy and flexible way
+* [eapache/go-resiliency](https://github.com/eapache/go-resiliency): Resiliency patterns for golang
+
 
 ## Database
 * [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
@@ -96,6 +99,8 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [Regular-expressions.info](https://www.regular-expressions.info/tutorial.html): This tutorial teaches you all you need to know to be able to craft powerful time-saving regular expressions
 * [Mysqltutorial](https://www.mysqltutorial.org/): This website provides you with a complete MySQL tutorial presented in an easy-to-follow manner. Each tutorial has practical examples with SQL script and screenshots available
 * [GeeksforGeeks](https://www.geeksforgeeks.org/): Tutorials
+* [Goresilience a Go library to improve applications resiliency](https://slok.medium.com/goresilience-a-go-library-to-improve-applications-resiliency-14d229aee385)
+* [What Is Hystrix?](https://github.com/Netflix/Hystrix/wiki)
 
 ## Specification
 * [RFC6749](https://tools.ietf.org/html/rfc6749): The OAuth 2.0 Authorization Framework
