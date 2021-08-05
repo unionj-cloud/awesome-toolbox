@@ -1,8 +1,9 @@
 # awesome-toolbox
 This is a collection of useful libraries collected in our daily developing. PR welcome!
 
-## Algorithms
+## Algorithms & Data Structures
 * [yourbasic/graph](https://github.com/yourbasic/graph)(Go): Graph algorithms and data structures
+* [emirpasic/gods](https://github.com/emirpasic/gods): GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, …
 
 ## Frontend
 * [tinymce/tinymce](https://github.com/tinymce/tinymce): The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
