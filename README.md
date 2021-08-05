@@ -36,6 +36,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [opentracing/opentracing-java](https://github.com/opentracing/opentracing-java)(Java): OpenTracing API for Java
 * [goadesign/goa](https://github.com/goadesign/goa)(Go): Design-based APIs and microservices in Go
 * [kubernetes/client-go](https://github.com/kubernetes/client-go)(Go): Go client for Kubernetes
+* [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim):DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
 ## Database
 * [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
