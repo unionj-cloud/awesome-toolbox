@@ -101,6 +101,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [GeeksforGeeks](https://www.geeksforgeeks.org/): Tutorials
 * [Goresilience a Go library to improve applications resiliency](https://slok.medium.com/goresilience-a-go-library-to-improve-applications-resiliency-14d229aee385)
 * [What Is Hystrix?](https://github.com/Netflix/Hystrix/wiki)
+* [Bulkhead pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead)
 
 ## Specification
 * [RFC6749](https://tools.ietf.org/html/rfc6749): The OAuth 2.0 Authorization Framework
