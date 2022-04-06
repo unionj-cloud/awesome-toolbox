@@ -39,7 +39,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim):DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * [slok/goresilience](https://github.com/slok/goresilience): A library to improve the resilience of Go applications in an easy and flexible way
 * [eapache/go-resiliency](https://github.com/eapache/go-resiliency): Resiliency patterns for golang
-
+* [lithammer/shortuuid](https://github.com/lithammer/shortuuid)(Go): A generator library for concise, unambiguous and URL-safe UUIDs
 
 ## Database
 * [facebook/ent](https://github.com/facebook/ent)(Go): An entity framework for Go
