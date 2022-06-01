@@ -76,6 +76,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [aspose-words/Aspose.Words-for-Java](https://github.com/aspose-words/Aspose.Words-for-Java)(Java): Aspose.Words for Java examples, plugins and showcases
 * [gookit/validate](https://github.com/gookit/validate)(Go): Go package for data validation and filtering. support Map, Struct, Form data.
 * [go-playground/validator](https://github.com/go-playground/validator)(Go): Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+* [paulmach/orb](https://github.com/paulmach/orb): Types and utilities for working with 2d geometry in Golang
 
 ## Blog/Tutorial
 * [Martin Fowler](https://martinfowler.com/): An author, speaker… essentially a loud-mouthed pundit on the topic of software development, primarily for Enterprise Applications
