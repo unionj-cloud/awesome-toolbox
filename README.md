@@ -61,6 +61,7 @@ This is a collection of useful libraries collected in our daily developing. PR w
 * [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)(Go): Sql mock driver for golang to test database interactions
 * [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured)(Java): Testing and validation of REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain
 * [rakyll/hey](https://github.com/rakyll/hey): HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+* [github/go-fault](https://github.com/github/go-fault): Fault injection library in Go using standard http middleware
 
 ## Crawler
 * [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper): Download website to local directory (including all css, images, js, etc.)
