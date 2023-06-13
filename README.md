@@ -66,6 +66,11 @@ This is a collection of useful libraries collected in our daily developing. PR w
 ## Crawler
 * [website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper): Download website to local directory (including all css, images, js, etc.)
 
+## Commercial Software Lisence Management
+* [f-license](https://github.com/furkansenharputlu/f-license): Open Source License Key Generation and Verification Tool written in Go
+* [SimpleLicensing](https://github.com/SaturnsVoid/SimpleLicensing): A Go Based Licensing System for Digital Rights Management
+* [lk](https://github.com/hyperboloide/lk): Simple licensing library for golang.
+
 ## Miscellaneous
 * [dimchansky/utfbom](https://github.com/dimchansky/utfbom)(Go): Detect BOM, remove BOM and detect file encoding from BOM
 * [rubenv/sql-migrate](https://github.com/rubenv/sql-migrate)(Go): SQL schema migration tool for Go
